@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+what3chars/__init__.py
+what3chars/what3chars.py
+what3chars.egg-info/PKG-INFO
+what3chars.egg-info/SOURCES.txt
+what3chars.egg-info/dependency_links.txt
+what3chars.egg-info/top_level.txt
